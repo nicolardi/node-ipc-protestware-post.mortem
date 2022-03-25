@@ -1,0 +1,15 @@
+{
+  "name": "protestware",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "malware test",
+  "main": "src/index.js",
+  "github": "git@github.com:nicolardi/node-ipc-protestware-post.mortem.git",
+  
+  "scripts": {
+    "start": "node src/index_attack_simulation.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Massimo Nicolardi",
+  "license": "ISC"
+}
